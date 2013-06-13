@@ -1,0 +1,32 @@
+//ArcGIS server log folder
+"C:\Program Files\ArcGIS\Server10.0\server\user\log\"
+
+//REST interface for web feature service
+"http://<servername>/ArcGIS/rest/services/<service name>/FeatureServer"
+
+//REST interface for web feature service: Vegetation
+"http://<servername>/ArcGIS/rest/services/<service name>/FeatureServer/0"
+
+//REST interface for web feature service: Rocks
+"http://<servername>/ArcGIS/rest/services/<service name>/FeatureServer/1"
+
+//REST interface for web feature service: Impervious
+"http://<servername>/ArcGIS/rest/services/<service name>/FeatureServer/2"
+
+//REST interface for web feature service: Soil
+"http://<servername>/ArcGIS/rest/services/<service name>/FeatureServer/3"
+
+//REST interface for web feature service: Water
+"http://<servername>/ArcGIS/rest/services/<service name>/FeatureServer/4"
+
+//REST interface for web feature service: Snow
+"http://<servername>/ArcGIS/rest/services/<service name>/FeatureServer/5"
+
+//Workspace folder path
+"c:\workspace\"
+
+//Plots shared folder path (located on the web server)
+"D:\inetpub\wwwroot\ASGPplots\"
+
+//Plots URL prefix (on the web server) e.g., http://www.dummy.com/ASGPplots/
+"http://<domain name>/ASGPplots/"
